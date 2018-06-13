@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1368235319 source:c:\documents and settings\aluno\desktop\project013\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1371593958 source:b:\cleo\cursos\engenharia de computação\project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"project.h"
+
+1371593399 source:b:\cleo\cursos\engenharia de computação\project013\project.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"project.h"
+
+1368395465 source:k:\project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1369351680 source:h:\project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1369160761 source:h:\project013\project.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1371340184 b:\cleo\cursos\engenharia de computação\project013\project.h
+
+1369351680 source:e:\project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1369351680 source:e:\cópia de project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1369351680 source:h:\cópia de project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1369530752 source:h:\cópia de project013\project.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"project.h"
+
+1369445427 h:\cópia de project013\project.h
+
+1370199062 source:c:\users\cleo\desktop\cópia de project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"project.h"
+
+1370199062 source:c:\users\cleo\desktop\cópia de project013\project.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"project.h"
+
+1370113686 c:\users\cleo\desktop\cópia de project013\project.h
+
+1372288269 source:c:\users\cleo\desktop\project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"project.h"
+
+1372123577 c:\users\cleo\desktop\project013\project.h
+
+1372272767 source:c:\users\cleo\desktop\project013\project.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"project.h"
+
+1372291869 source:b:\cleo\cursos\engenharia de computação\algoritmo\project013\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"project.h"
+
+1372127177 b:\cleo\cursos\engenharia de computação\algoritmo\project013\project.h
+
+1372276367 source:b:\cleo\cursos\engenharia de computação\algoritmo\project013\project.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"project.h"
+
